@@ -4,7 +4,7 @@
   "description": "Página de Login Electron",
   "main": "main.js",
   "scripts": {
-    "start": "electron"
+    "start": "electron ."
   },
   "keywords": [],
   "author": "",
